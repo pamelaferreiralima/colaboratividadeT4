@@ -26,3 +26,10 @@ header{
     background-color: #000;
     width: 30vw;
 }
+
+.stars-footer {
+    width: 30vw;
+    position: absolute;
+    left: 65vw;
+    top: 65vh;
+}
