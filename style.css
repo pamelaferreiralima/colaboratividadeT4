@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+body{
+    background-color: blue;
+    color: #fff;
+}
+.img-galaxy{
+    width: 18vw;
+}
+main{
+   display: flex;
+   justify-content: center;
+}
+header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+.box-list{
+    margin-top: 2%;
+    background-color: #000;
+    width: 30vw;
+}
