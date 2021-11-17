@@ -26,3 +26,12 @@ header{
     background-color: #000;
     width: 30vw;
 }
+
+.stars-footer {
+    width: 30vw;
+    position: absolute;
+    left: 65vw;
+    top: 65vh;
+#paloma{
+    color: rgb(209, 50, 214);
+}
